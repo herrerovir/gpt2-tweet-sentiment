@@ -1,0 +1,52 @@
+{
+  "builder_name": "parquet",
+  "citation": "",
+  "config_name": "default",
+  "dataset_name": "tweet_sentiment_extraction",
+  "dataset_size": 2493978,
+  "description": "",
+  "download_checksums": {
+    "hf://datasets/mteb/tweet_sentiment_extraction@3703f2e1b6b0ce0a08de382f7d4eb2625cc22cf9/data/train-00000-of-00001.parquet": {
+      "num_bytes": 1516313,
+      "checksum": null
+    },
+    "hf://datasets/mteb/tweet_sentiment_extraction@3703f2e1b6b0ce0a08de382f7d4eb2625cc22cf9/data/test-00000-of-00001.parquet": {
+      "num_bytes": 194547,
+      "checksum": null
+    }
+  },
+  "download_size": 1710860,
+  "features": {
+    "text": {
+      "dtype": "string",
+      "_type": "Value"
+    },
+    "label": {
+      "dtype": "int64",
+      "_type": "Value"
+    }
+  },
+  "homepage": "",
+  "license": "",
+  "size_in_bytes": 4204838,
+  "splits": {
+    "train": {
+      "name": "train",
+      "num_bytes": 2211602,
+      "num_examples": 27481,
+      "dataset_name": "tweet_sentiment_extraction"
+    },
+    "test": {
+      "name": "test",
+      "num_bytes": 282376,
+      "num_examples": 3534,
+      "dataset_name": "tweet_sentiment_extraction"
+    }
+  },
+  "version": {
+    "version_str": "0.0.0",
+    "major": 0,
+    "minor": 0,
+    "patch": 0
+  }
+}
