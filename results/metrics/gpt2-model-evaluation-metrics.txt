@@ -1,0 +1,9 @@
+GPT-2 Model Evaluation Metrics on Test Set:
+
+Eval_loss: 0.6867
+Eval_accuracy: 0.7937
+Eval_f1: 0.7934
+Eval_runtime: 11.5130
+Eval_samples_per_second: 306.8720
+Eval_steps_per_second: 38.3920
+Epoch: 5.0000
