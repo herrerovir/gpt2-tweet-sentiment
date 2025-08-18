@@ -1,0 +1,97 @@
+------------------------------------------------------------
+Tweet Sentiment Classification Inference
+------------------------------------------------------------
+
+Input Text: The food was hot and delicious.
+Predicted Sentiment: Positive (Confidence: 0.9993)
+
+Input Text: Just landed my dream job! Can’t believe it 🙌 So excited for what’s ahead!
+Predicted Sentiment: Positive (Confidence: 0.9981)
+
+Input Text: The staff of the restaurant were not friendly.
+Predicted Sentiment: Negative (Confidence: 0.9967)
+
+Input Text: Ugh, my flight got delayed again. This is getting ridiculous.
+Predicted Sentiment: Negative (Confidence: 0.9995)
+
+Input Text: Heading to the grocery store, then back to work. Just a regular Thursday.
+Predicted Sentiment: Neutral (Confidence: 0.9957)
+
+Input Text: I love how everything always breaks when I need it most. 🙃
+Predicted Sentiment: Positive (Confidence: 0.9953)
+
+Input Text: My package arrived two days early! Thanks for the great service!
+Predicted Sentiment: Positive (Confidence: 0.9997)
+
+Input Text: What a waste of time. I could’ve been doing literally anything else.
+Predicted Sentiment: Negative (Confidence: 0.9766)
+
+Input Text: It's been a day. Not good, not bad. Just... a day.
+Predicted Sentiment: Neutral (Confidence: 0.7548)
+
+Input Text: Coffee hit just right this morning ☕️🔥
+Predicted Sentiment: Positive (Confidence: 0.9718)
+
+Input Text: Lost all my work because of a crash. Fantastic.
+Predicted Sentiment: Positive (Confidence: 0.5206)
+
+Input Text: Can’t wait for the weekend! Plans are finally coming together.
+Predicted Sentiment: Positive (Confidence: 0.9983)
+
+Input Text: This place has really gone downhill. Used to love it here.
+Predicted Sentiment: Positive (Confidence: 0.6640)
+
+Input Text: Weather’s perfect today—sunny with a light breeze. Love it.
+Predicted Sentiment: Positive (Confidence: 0.9998)
+
+Input Text: Guess who forgot their umbrella again? This guy.
+Predicted Sentiment: Neutral (Confidence: 0.8902)
+
+Input Text: Wow. They really nailed it this time. Super impressed!
+Predicted Sentiment: Positive (Confidence: 0.9999)
+
+Input Text: The instructions were unclear, and now I’m stuck.
+Predicted Sentiment: Negative (Confidence: 0.9988)
+
+Input Text: Just finished my workout. Feeling strong 💪
+Predicted Sentiment: Positive (Confidence: 0.9903)
+
+Input Text: Honestly, I don’t even care anymore.
+Predicted Sentiment: Negative (Confidence: 0.6966)
+
+Input Text: Nothing beats a quiet evening with a good book.
+Predicted Sentiment: Positive (Confidence: 0.9991)
+
+Input Text: Cool. Another update that broke everything.
+Predicted Sentiment: Positive (Confidence: 0.5727)
+
+Input Text: Met some amazing people today—grateful for the experience.
+Predicted Sentiment: Positive (Confidence: 0.9986)
+
+Input Text: No big deal, just spilled coffee on my laptop. Send help.
+Predicted Sentiment: Neutral (Confidence: 0.8826)
+
+Input Text: Finally got around to cleaning my room. Feels good!
+Predicted Sentiment: Positive (Confidence: 1.0000)
+
+Input Text: So many bugs in this app, it should come with a net.
+Predicted Sentiment: Neutral (Confidence: 0.8580)
+
+Input Text: Thanks for the quick response—really appreciated.
+Predicted Sentiment: Positive (Confidence: 0.9995)
+
+Input Text: Forgot how good this song is. Instant mood booster.
+Predicted Sentiment: Positive (Confidence: 0.9877)
+
+Input Text: Waiting in line for 30 minutes just to be told it's closed.
+Predicted Sentiment: Neutral (Confidence: 0.9919)
+
+Input Text: Dinner with family tonight. Looking forward to it.
+Predicted Sentiment: Positive (Confidence: 0.9901)
+
+Input Text: Hilarious. My alarm didn’t go off *again.*
+Predicted Sentiment: Positive (Confidence: 0.9943)
+
+------------------------------------------------------------
+Inference Complete. Top predictions saved to file.
+------------------------------------------------------------
